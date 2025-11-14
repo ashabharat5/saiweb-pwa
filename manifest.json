@@ -1,0 +1,21 @@
+{
+  "name": "Sai Web Solution",
+  "short_name": "SaiWeb",
+  "start_url": "/?pwa=1",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://saiwebsolution.asnp.in/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://saiwebsolution.asnp.in/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
