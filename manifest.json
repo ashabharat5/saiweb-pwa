@@ -1,19 +1,36 @@
 {
-  "name": "Sai Web Solution",
-  "short_name": "SaiWeb",
-  "start_url": "/?pwa=1",
+  "name": "SAI Web Solutions Blog",
+  "short_name": "SAI Blog",
+  "description": "Graphic Design, Web Development, and News Portal insights from SAI Web Solutions.",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4f46e5",
-  "scope": "/",
+  "theme_color": "#0D47A1",
   "icons": [
     {
-      "src": "https://saiwebsolution.asnp.in/logo192.png",
-      "sizes": "192x192",
+      "src": "/pwa-icons/icon-72x72.png",
+      "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://saiwebsolution.asnp.in/logo512.png",
+      "src": "/pwa-icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
